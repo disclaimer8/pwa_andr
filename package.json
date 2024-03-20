@@ -21,7 +21,7 @@
     "workbox-precaching": "^6.5.4"
   },
   "devDependencies": {
-    "typescript": "4.8.4",
+    "typescript": "5.4.3",
     "vite": "3.1.8",
     "vite-plugin-pwa": "0.12.8"
   },
